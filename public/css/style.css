@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+  color: white;
+}
+body {
+  background: #161b21;
+}
+.navCustomColor {
+  background: #0d1017;
+}
+.descripcion {
+  font-family: 'Gideon Roman', cursive;
+}
+.title {
+  font-family: 'Noto Sans', sans-serif;
+}
