@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "canvas": "^2.8.0",
     "express": "^4.18.0",
-    "express-handlebars": "^5.2.0"
-  }
+    "express-handlebars": "^5.2.0",
+    "zeew-canvas": "^1.0.6"
+  },
+  "name": "hobbypage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1-1960/Hobby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k1-1960/Hobby/issues"
+  },
+  "homepage": "https://github.com/k1-1960/Hobby#readme",
+  "description": ""
 }
